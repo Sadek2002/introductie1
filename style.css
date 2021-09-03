@@ -1,0 +1,28 @@
+p.hoofd {
+    font-size: 30px;
+    display: inline;
+}
+p.verslag {
+    max-width: 500px;
+}
+
+div.container {
+    min-width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+p {
+    padding: 20px;
+}
+
+p.month {
+    width: 300px;
+    border: solid 1px black;
+    background: orange;
+}
+p.task {
+    width: 100%;
+    border: solid 1px black;
+
+}
